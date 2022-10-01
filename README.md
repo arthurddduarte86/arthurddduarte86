@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurddduarte86&label=Profile%20views&color=0e75b6&style=flat" alt="arthurddduarte86" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision Identification Software for my home security cameras.**
+- 🔭 I’m currently working on, **unemployed**/my project, **Computer Vision Identification Software for my home security cameras.**
 
-- I’m currently learning **Python, data science, Flask, MongoDB**
+- I’m currently learning **Python, data science, Flask, MongoDB, Ruby**
 
 - My Linkedin **https://www.linkedin.com/in/arthurduartebr/**
 
@@ -65,5 +65,9 @@ Here are some ideas to get you started:
    <a href="https://github.com/arthurddduarte86/CodeWars-Ruby" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Ruby&theme=light" />
 </a>
+     <a href="https://github.com/arthurddduarte86/Mixed-Small-Python-Projects" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Mixed-Small-Python-Projects&theme=light" />
+</a>
+  
   
   
