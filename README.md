@@ -36,7 +36,9 @@ Here are some ideas to get you started:
   <h1 align="center">Hi 👋, I'm Arthur Duarte</h1>
 <h3 align="center">Brazilian, backend junior developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurddduarte86&label=Profile%20views&color=0e75b6&style=flat" alt="arthurddduarte86" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurddduarte86&label=Profile%20views&color=0e75b6&style=flat" alt="arthurddduarte86" />
+<a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a></p>
+
 
 - 🔭 I’m currently working on, **unemployed**/my project, **Computer Vision Identification Software for my home security cameras.**
 
