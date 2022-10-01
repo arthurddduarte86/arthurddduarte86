@@ -59,10 +59,11 @@ Here are some ideas to get you started:
 </div>
 
   ## Principais repositórios - Repositories
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Python)](https://github.com/arthurddduarte86/CodeWars-Python)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Ruby)](https://github.com/arthurddduarte86/CodeWars-Ruby)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Mixed-Small-Python-Projects)](https://github.com/arthurddduarte86/Mixed-Small-Python-Projects)
-  
-  <a href="https://github.com/arthurddduarte86/CodeWars-Python" target="_blank">
+ <a href="https://github.com/arthurddduarte86/CodeWars-Python" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Python&theme=light" />
 </a>
+   <a href="https://github.com/arthurddduarte86/CodeWars-Ruby" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Ruby&theme=light" />
+</a>
+  
+  
