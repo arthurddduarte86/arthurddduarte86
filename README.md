@@ -57,3 +57,12 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurddduarte86&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurddduarte86&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+  ## Principais repositórios - Repositories
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Python)](https://github.com/arthurddduarte86/CodeWars-Python)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Ruby)](https://github.com/arthurddduarte86/CodeWars-Ruby)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Mixed-Small-Python-Projects)](https://github.com/arthurddduarte86/Mixed-Small-Python-Projects)
+  
+  <a href="https://github.com/arthurddduarte86/CodeWars-Python" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Python&theme=light" />
+</a>
