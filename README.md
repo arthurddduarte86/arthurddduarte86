@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - My Linkedin **https://www.linkedin.com/in/arthurduartebr/**
 
 - ✉️ Contact me **arthur.d.duarte@live.com**
-- 📱  Contact me ***Whatsapp_Telegram: +55(11)975084458*
+- 📱  Contact me **Whatsapp_Telegram: +55(11)975084458**
 
 
 
