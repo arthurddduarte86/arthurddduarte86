@@ -40,13 +40,12 @@ Here are some ideas to get you started:
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a></p>
 
 
-- 🔭 I’m currently working on, **unemployed**/my project, **Computer Vision Identification Software for my home security cameras.**
-
-- I’m currently learning **Python, data science, Flask, MongoDB, Ruby**
+- I’m currently learning **Python, Data Science, Numpy, Pandas, API, Fast-API, Flask, MongoDB, Ruby**
 
 - My Linkedin **https://www.linkedin.com/in/arthurduartebr/**
 
 - ✉️ Contact me **arthur.d.duarte@live.com**
+- 📱  Contact me ***Whatsapp_Telegram: +55(11)975084458*
 
 
 
