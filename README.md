@@ -69,13 +69,16 @@ Here are some ideas to get you started:
 
 <div align="left">
   <a href="https://github.com/arthurddduarte86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurddduarte86&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurddduarte86&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurddduarte86&show_icons=true&theme=light"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurddduarte86&layout=compact&langs_count=7&theme=light"/>
 </div>
 
   ## Principais repositórios - Repositories
  <a href="https://github.com/arthurddduarte86/CodeWars-Python" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Python&theme=light" />
+</a>
+<a href="https://github.com/arthurddduarte86/Data_Science" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Data_Science&theme=light" />
 </a>
    <a href="https://github.com/arthurddduarte86/CodeWars-Ruby" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Ruby&theme=light" />
