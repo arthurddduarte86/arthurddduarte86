@@ -67,11 +67,7 @@ Here are some ideas to get you started:
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>  
 
-<div align="left">
-  <a href="https://github.com/arthurddduarte86">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurddduarte86&show_icons=true&theme=light"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurddduarte86&layout=compact&langs_count=7&theme=light"/>
-</div>
+
 
   ## Principais repositórios - Repositories
  <a href="https://github.com/arthurddduarte86/CodeWars-Python" target="_blank">
