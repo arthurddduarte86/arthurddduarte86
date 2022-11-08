@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     
   <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
   <img align="center" alt="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">   
-</div>
+</div> 
 -->
   
   <h1 align="center">Hi 👋, I'm Arthur Duarte</h1>
