@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/arthurddduarte86/Data_Science" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Data_Science&theme=light" />
 </a>
-   <a href="https://github.com/arthurddduarte86/CodeWars-Ruby" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Ruby&theme=light" />
+   <a href="https://github.com/arthurddduarte86/CodeWars-Go" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Go&theme=light" />
 </a>
      <a href="https://github.com/arthurddduarte86/Mixed-Small-Python-Projects" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Mixed-Small-Python-Projects&theme=light" />
