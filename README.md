@@ -34,18 +34,18 @@ Here are some ideas to get you started:
 -->
   
   <h1 align="center">Hi 👋, I'm Arthur Duarte</h1>
-<h3 align="center">Brazilian, backend junior developer.</h3>
+<h3 align="center">Brazilian.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurddduarte86&label=Profile%20views&color=0e75b6&style=flat" alt="arthurddduarte86" />
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a></p>
 
-
+<!--
 - I’m currently learning **Python, Go, Data Science, Numpy, Pandas, API, Fast-API, Flask**
-
-- My Linkedin **https://www.linkedin.com/in/arthurduartebr/**
+-->
+- My Linkedin **https://www.linkedin.com/in/arthur-duarte-a21b152ab/**
 
 - ✉️ Contact me **arthur.d.duarte@live.com**
-- 📱  Contact me **Whatsapp_Telegram: +55(11)975084458**
+- 📱  Contact me **Whatsapp_Telegram: +55(11)95584-2205**
 
 
 
