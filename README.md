@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurddduarte86&label=Profile%20views&color=0e75b6&style=flat" alt="arthurddduarte86" />
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a></p>
 
-<!--
+
 - I’m currently learning **C#, .NET, Entity Framework, SQL & SQL Server, CI/CD**
--->
+
 - My Linkedin **https://www.linkedin.com/in/duarte-arthur/**
 
 - ✉️ Contact me **arthur.d.duarte@live.com**
