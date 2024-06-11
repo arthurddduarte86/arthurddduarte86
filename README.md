@@ -40,43 +40,16 @@ Here are some ideas to get you started:
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a></p>
 
 <!--
-- I’m currently learning **Python, Go, Data Science, Numpy, Pandas, API, Fast-API, Flask**
+- I’m currently learning **C#, .NET, Entity Framework, SQL & SQL Server, CI/CD**
 -->
-- My Linkedin **https://www.linkedin.com/in/arthur-duarte-a21b152ab/**
+- My Linkedin **https://www.linkedin.com/in/duarte-arthur/**
 
 - ✉️ Contact me **arthur.d.duarte@live.com**
 - 📱  Contact me **Whatsapp_Telegram: +55(11)95584-2205**
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>     
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
-  
-</p>  
 
-
-
-  ## Principais repositórios - Repositories
- <a href="https://github.com/arthurddduarte86/CodeWars-Python" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Python&theme=light" />
-</a>
-<a href="https://github.com/arthurddduarte86/Data_Science" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Data_Science&theme=light" />
-</a>
-   <a href="https://github.com/arthurddduarte86/CodeWars-Go" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=CodeWars-Go&theme=light" />
-</a>
-     <a href="https://github.com/arthurddduarte86/Mixed-Small-Python-Projects" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arthurddduarte86&repo=Mixed-Small-Python-Projects&theme=light" />
-</a>
-  
-  
-  
 
 
 
