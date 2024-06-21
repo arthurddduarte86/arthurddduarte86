@@ -40,12 +40,12 @@ Here are some ideas to get you started:
 <a href="https://www.codewars.com/users/arthurdduarte" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/arthurdduarte/badges/small" alt="bash"/> </a></p>
 
 
-- I’m currently learning **C#, .NET, Entity Framework, SQL & SQL Server, CI/CD**
+- I’m currently learning **Java, Spring Framework, NoSQL MongoDB, SQL & SQL Server, CI/CD**
 
 - My Linkedin **https://www.linkedin.com/in/duarte-arthur/**
 
 - ✉️ Contact me **arthur.d.duarte@live.com**
-- 📱  Contact me **Whatsapp_Telegram: +55(11)95584-2205**
+- 📱  Contact me **Whatsapp_Telegram: +55(64)-99295-4994 // (11)95584-2205**
 
 
 
