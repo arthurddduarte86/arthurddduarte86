@@ -47,6 +47,15 @@ Here are some ideas to get you started:
 - ✉️ Contact me **arthur.d.duarte@live.com**
 - 📱  Contact me **Whatsapp_Telegram: +55(64)-99295-4994 // (11)95584-2205**
 
+>I am an aspiring software developer with a robust IT background and a deep-seated passion for backend software development.
+
+>With extensive experience in data networks and datacenter infrastructure, where I served as a consultant and provided technical support to large enterprises,
+>I am now pursuing a longstanding dream of transitioning into a software development career. I am eager to embark on this new chapter,
+>leveraging my skills to contribute to impactful solutions and advance in a field that inspires me.
+
+>I am actively seeking opportunities to innovate and learn within a collaborative environment,
+>driven by a shared commitment to creating solutions that improve our world.
+
 
 
 
